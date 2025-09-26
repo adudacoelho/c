@@ -1,0 +1,11 @@
+id,nome,fabricante,categoria,unidade,preco,quantidade
+1,Arroz Branco,PratoFino,Alimento,kg,5.49,120
+2,Detergente Neutro,Ype,Limpeza,unidade,2.99,300
+3,Leite Integral,Italac,Alimento,L,5.00,200
+4,Refrigerante Cola,CocaCola,Bebida,L,6.49,150
+5,Sabonete Flor,Protex,Higiene,unidade,3.25,250
+6,Cafe Torrado,Pilao,Alimento,kg,18.90,80
+7,Desinfetante Pinho,Pinho Sol,Limpeza,L,7.50,95
+8,Macarrao Espaguete,Renata,Alimento,kg,4.20,180
+9,Suco de Laranja,Del Valle,Bebida,L,5.99,130
+10,Doce de Leite,Italac,Alimento,L,5.00,200
